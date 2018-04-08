@@ -9,7 +9,7 @@ published: true
 post_date: 2018-04-07 15:34:03
 ---
 <h2>Conference in the Cloud</h2>		
-			<p>Conference - Exhibition - Trade Show</p>		
+			<p>Conferences - Exhibitions - Trade Shows</p>		
 			<a href="/about" role="button">
 						About Us
 					</a>
