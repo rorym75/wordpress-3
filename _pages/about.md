@@ -8,3 +8,9 @@ permalink: http://35.204.16.51/about/
 published: true
 post_date: 2018-04-07 15:36:55
 ---
+<h3>Connecting People</h3>		
+		<p>Even though more and more business is being conducted digitally, we believe that meeting in person has an important role to play. Our platform gives you the best of both worlds.</p>		
+			<a href="#" role="button">
+						Get Started
+					</a>
+										<img width="1024" height="683" src="http://35.204.16.51/wp-content/uploads/2018/04/trade-show.jpg" alt="" srcset="http://35.204.16.51/wp-content/uploads/2018/04/trade-show.jpg 1024w, http://35.204.16.51/wp-content/uploads/2018/04/trade-show-300x200.jpg 300w, http://35.204.16.51/wp-content/uploads/2018/04/trade-show-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
