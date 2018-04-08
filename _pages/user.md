@@ -3,7 +3,7 @@ ID: 16
 post_title: User
 author: admin
 post_excerpt: ""
-layout: post
+layout: page
 permalink: http://35.197.194.186/user/
 published: true
 post_date: 2018-04-08 08:37:03
