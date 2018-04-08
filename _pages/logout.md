@@ -3,7 +3,7 @@ ID: 26
 post_title: Logout
 author: admin
 post_excerpt: ""
-layout: post
+layout: page
 permalink: http://35.197.194.186/logout/
 published: true
 post_date: 2018-04-08 08:37:34
