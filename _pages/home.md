@@ -8,7 +8,7 @@ permalink: http://35.204.16.51/
 published: true
 post_date: 2018-04-07 15:34:03
 ---
-<h2>Conference in the Cloud</h2>		
+<figure><img src="http://35.204.16.51/wp-content/uploads/2018/04/CitC-1.png" alt="CitC" /></figure><figure><img src="http://35.204.16.51/wp-content/uploads/2018/04/PitS-1.png" alt="PitS" /></figure>			
 			<p>Conferences - Exhibitions - Trade Shows</p>		
 			<a href="/eventbrite-event" role="button">
 						View Events
