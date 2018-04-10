@@ -10,15 +10,15 @@ post_date: 2018-04-07 15:34:03
 ---
 <h2>Conference in the Cloud</h2>		
 			<p>Conferences - Exhibitions - Trade Shows</p>		
+			<a href="/eventbrite-event" role="button">
+						View Events
+					</a>
+			<h2>Changing the way we work</h2>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis luctus leo ut lacinia. Nunc et augue pulvinar, luctus mi non, sagittis odio. Phasellus congue sem nulla, non sodales orci malesuada vel. </p>		
 			<a href="/about" role="button">
 						About Us
 					</a>
-			<h2>Changing the way we work</h2>		
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis luctus leo ut lacinia. Nunc et augue pulvinar, luctus mi non, sagittis odio. Phasellus congue sem nulla, non sodales orci malesuada vel. Aliquam posuere mi eros, at condimentum elit feugiat vel.</p>		
-			<a href="#" role="button">
-						read more
-					</a>
-										<img src="http://35.204.16.51/wp-content/uploads/2018/04/cityscape.jpg" title="cityscape" alt="cityscape" />											
+										<img width="900" height="523" src="http://35.204.16.51/wp-content/uploads/2018/04/chicago-famous-cityscape-luiz-felipe-castro.jpg" alt="" srcset="http://35.204.16.51/wp-content/uploads/2018/04/chicago-famous-cityscape-luiz-felipe-castro.jpg 900w, http://35.204.16.51/wp-content/uploads/2018/04/chicago-famous-cityscape-luiz-felipe-castro-300x174.jpg 300w, http://35.204.16.51/wp-content/uploads/2018/04/chicago-famous-cityscape-luiz-felipe-castro-768x446.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />											
 			<h2>our People</h2>		
 										<img width="220" height="293" src="http://35.204.16.51/wp-content/uploads/2018/04/Albert_Einstein.jpg" alt="" />											
 			<h3>Alan Blennerhassett</h3>		
