@@ -13,11 +13,12 @@ post_date: 2018-04-07 15:34:03
 			<a href="/about" role="button">
 						About Us
 					</a>
-			<h2>we are on our way</h2>		
+			<h2>Changing the way we work</h2>		
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis luctus leo ut lacinia. Nunc et augue pulvinar, luctus mi non, sagittis odio. Phasellus congue sem nulla, non sodales orci malesuada vel. Aliquam posuere mi eros, at condimentum elit feugiat vel.</p>		
 			<a href="#" role="button">
 						read more
 					</a>
+										<img src="http://35.204.16.51/wp-content/uploads/2018/04/cityscape.jpg" title="cityscape" alt="cityscape" />											
 			<h2>our People</h2>		
 										<img width="220" height="293" src="http://35.204.16.51/wp-content/uploads/2018/04/Albert_Einstein.jpg" alt="" />											
 			<h3>Alan Blennerhassett</h3>		
