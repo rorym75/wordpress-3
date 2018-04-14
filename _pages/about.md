@@ -13,4 +13,4 @@ post_date: 2018-04-07 15:36:55
 			<a href="/signup.php" role="button">
 						Get Started
 					</a>
-										<img width="1024" height="683" src="http://35.204.16.51/wp-content/uploads/2018/04/trade-show.jpg" alt="" srcset="http://35.204.16.51/wp-content/uploads/2018/04/trade-show.jpg 1024w, http://35.204.16.51/wp-content/uploads/2018/04/trade-show-300x200.jpg 300w, http://35.204.16.51/wp-content/uploads/2018/04/trade-show-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+										<img width="300" height="200" src="http://35.204.16.51/wp-content/uploads/2018/04/trade-show-300x200.jpg" alt="" srcset="http://35.204.16.51/wp-content/uploads/2018/04/trade-show-300x200.jpg 300w, http://35.204.16.51/wp-content/uploads/2018/04/trade-show-768x512.jpg 768w, http://35.204.16.51/wp-content/uploads/2018/04/trade-show.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
