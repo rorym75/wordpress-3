@@ -17,7 +17,7 @@ post_date: 2018-04-15 15:20:06
 
 <section class="main-container">
 			<div class="login-form">
-				<form>
+				<form class="login-form" action="includes/login.inc.php" method="POST">
 					<input type="text" name="uid" placeholder="username/e-mail">
 					<input type="password" name="pwd" placeholder="password">
 					<button type="submit" name="submit">Login</button>
