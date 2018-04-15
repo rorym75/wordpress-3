@@ -9,7 +9,7 @@ published: true
 post_date: 2018-04-07 15:36:55
 ---
 <h3>Connecting People</h3>		
-		<p>Even though more and more business is being conducted digitally, we believe that meeting in person has an important role to play. Our platform gives you the best of both worlds.</p>		
+		<p>Even though more and more business is being conducted digitally, we believe that meeting in person has a very important role to play. Our platform gives you the best of both worlds.</p>		
 			<a href="/register" role="button">
 						Get Started
 					</a>
