@@ -16,7 +16,7 @@ post_date: 2018-04-15 15:20:06
 <body>
 
 <section class="main-container">
-			<div class="nav-login">
+			<div class="login-form">
 				<form>
 					<input type="text" name="uid" placeholder="Username/e-mail">
 					<input type="password" name="pwd" placeholder="password">
@@ -25,13 +25,14 @@ post_date: 2018-04-15 15:20:06
 			</div>
 
 			<div class="signup-form">
-		<form class="signup-form" action="includes/signup.inc.php" method="POST">
-			<input type="text" name="first" placeholder="Firstname">
-			<input type="text" name="last" placeholder="Lastname">
-			<input type="text" name="email" placeholder="E-mail">
-			<input type="text" name="uid" placeholder="Username">
-			<input type="password" name="pwd" placeholder="Password">
-			<button type="submit" name="submit">Sign up</button>
+		                 <form class="signup-form" action="includes/signup.inc.php" method="POST">
+					<input type="text" name="first" placeholder="Firstname">
+					<input type="text" name="last" placeholder="Lastname">
+					<input type="text" name="email" placeholder="E-mail">
+					<input type="text" name="uid" placeholder="Username">
+					<input type="password" name="pwd" placeholder="Password">
+					<button type="submit" name="submit">Sign up</button>
+				</form>
 			</div>
 </section>
 
