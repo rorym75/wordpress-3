@@ -8,7 +8,6 @@ permalink: http://35.204.16.51/register/
 published: true
 post_date: 2018-04-15 15:20:06
 ---
-
 <!DOCTYPE html>
 <html>
 <head>
