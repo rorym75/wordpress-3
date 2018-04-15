@@ -19,15 +19,11 @@ post_date: 2018-04-15 15:20:06
 <header>
 	<nav>
 		<div class="main-wrapper">
-			<ul>
-				<li><a href="index.php">Home</a></li>
-			</ul>
 			<div class="nav-login">
 				<form>
 					<input type="text" name="uid" placeholder="Username/e-mail">
 					<input type="password" name="pwd" placeholder="password">
 					<button type="submit" name="submit">Login</button>
-					<button type="link" name="link">Register</button>
 				</form>
 			</div>
 		</div>
