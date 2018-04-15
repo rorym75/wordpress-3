@@ -18,9 +18,6 @@ post_date: 2018-04-15 14:47:50
 <header>
         <nav>
                 <div class="main-wrapper">
-                        <ul>
-                                <li><a href="index.php">Home</a></li>
-                        </ul>
                         <div class="nav-login">
                                 <form>
                                         <input type="text" name="uid" placeholder="Username/e-mail">
