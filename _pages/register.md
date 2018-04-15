@@ -18,7 +18,7 @@ post_date: 2018-04-15 15:20:06
 <section class="main-container">
 			<div class="login-form">
 				<form>
-					<input type="text" name="uid" placeholder="Username/e-mail">
+					<input type="text" name="uid" placeholder="username/e-mail">
 					<input type="password" name="pwd" placeholder="password">
 					<button type="submit" name="submit">Login</button>
 				</form>
