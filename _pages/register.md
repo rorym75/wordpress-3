@@ -17,7 +17,7 @@ post_date: 2018-04-15 15:20:06
 
 <section class="main-container">
 <div>
-Login
+Already a User
 			<div class="login-form">
 				<form class="login-form" action="includes/login.inc.php" method="POST">
 					<input type="text" name="uid" placeholder="username/e-mail">
@@ -25,7 +25,7 @@ Login
 					<button type="submit" name="submit">Login</button>
 				</form>
 			</div>
-Register
+Create Account
 			<div class="signup-form">
 		                 <form class="signup-form" action="includes/signup.inc.php" method="POST">
 					<input type="text" name="first" placeholder="Firstname">
