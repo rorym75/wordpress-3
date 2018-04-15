@@ -15,6 +15,8 @@ post_date: 2018-04-15 15:20:06
 </head>
 <body>
 
+<div>
+
 <section>
 	<nav>
 		<div class="main-wrapper">
@@ -29,9 +31,10 @@ post_date: 2018-04-15 15:20:06
 	</nav>
 </section>
 
+</div>
+
 <section class="main-container">
 	<div class="main-wrapper">
-		<h2>Register Now</h2>
 		<form class="signup-form" action="includes/signup.inc.php" method="POST">
 			<input type="text" name="first" placeholder="Firstname">
 			<input type="text" name="last" placeholder="Lastname">
