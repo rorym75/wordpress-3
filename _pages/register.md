@@ -14,7 +14,7 @@ post_date: 2018-04-15 15:20:06
 	<title></title>
 </head>
 <body>
-
+<nav>
 		<div class="main-wrapper">
 			<div class="nav-login">
 				<form>
@@ -24,7 +24,7 @@ post_date: 2018-04-15 15:20:06
 				</form>
 			</div>
 		</div>
-
+</nav>
 
 
 </div>
