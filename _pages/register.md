@@ -12,7 +12,6 @@ post_date: 2018-04-15 15:20:06
 <html>
 <head>
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
