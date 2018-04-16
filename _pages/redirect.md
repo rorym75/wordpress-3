@@ -14,7 +14,7 @@ post_date: 2018-04-16 13:16:52
                 <h2>Redirect</h2>
                 <?php
                         //Here we display a message if we are logged in!
-                        if (isset($_SESSION['u_id'])) {
+                        //if (isset($_SESSION['u_id'])) {
                                 echo "You are logged in!";
-                        }
+                        //}
                 ?>
