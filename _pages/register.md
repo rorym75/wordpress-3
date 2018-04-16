@@ -19,7 +19,7 @@ post_date: 2018-04-15 15:20:06
 <div>
 Existing Users
 			<div class="login-form">
-				<form class="login-form" action="includes/login.inc.php" method="POST">
+				<form class="login-form" action="../includes/login.inc.php" method="POST">
 					<input type="text" name="uid" placeholder="username/e-mail">
 					<input type="password" name="pwd" placeholder="password">
 					<button type="submit" name="submit">Login</button>
@@ -27,7 +27,7 @@ Existing Users
 			</div>
 Create Account
 			<div class="signup-form">
-		                 <form class="signup-form" action="includes/signup.inc.php" method="POST">
+		                 <form class="signup-form" action="../includes/signup.inc.php" method="POST">
 					<input type="text" name="first" placeholder="Firstname">
 					<input type="text" name="last" placeholder="Lastname">
 					<input type="text" name="email" placeholder="E-mail">
